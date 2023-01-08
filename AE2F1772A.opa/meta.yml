@@ -1,0 +1,19 @@
+id: AE2F1772A
+title: Prayer to Khenchen Jigme Phuntsok
+type: translation
+pechas:
+- IB7D4C368
+- IF3338017
+source_metadata:
+  languages:
+  - en
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 12:50:02.052871
+  last_modified_at: 2023-01-04 12:50:02.052892
+  collections:
+  - Khenchen Jigme Phuntsok Series
+  - Works of Tibetan Masters
+alignment_to_base:
+  IB7D4C368/468D: 50CD
+  IF3338017/A13F: 50CD
